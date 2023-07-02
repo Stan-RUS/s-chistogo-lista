@@ -1,0 +1,81 @@
+body {
+	margin: 0;
+	background-color: #1e1e1e;
+	font-family: "Inter", sans-serif;
+	font-size: 400;
+	color: #fff;
+}
+
+a {
+	color: #fff;
+}
+
+span {
+	display: block;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+p, 
+ul, 
+ol, 
+blockquote {
+	margin: 0;
+	padding: 0;
+}
+
+.content-section {
+	width: 360px;
+	box-sizing: border-box;
+}
+
+.header {
+
+} 
+
+.header__logo {
+}
+
+.header__logo-image {
+
+}
+
+.header__menu (
+
+)
+
+.header__menu-item {
+
+}
+
+.header__menu-item_active {
+	text-decoration: none;
+}
+
+.header__menu-link {
+	
+}
+
+.cover {
+
+}
+
+.intro {
+
+}
+
+.reasons {
+
+}
+
+.how-to {
+
+}
+
+.footer {
+
+}
