@@ -80,10 +80,6 @@ blockquote {
   margin: 0;
 }
 
-.header__menu-item_active {
-  text-decoration: none;
-}
-
 .cover {
   min-height: 221px;
   background-image: url(../images/cover.svg);
@@ -127,6 +123,9 @@ blockquote {
 
 .intro__title {
   width: 203px;
+  font-family: Inter, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 120%;
 }
 
@@ -261,5 +260,9 @@ blockquote {
 }
 
 .footer__links-socials {
+  text-decoration: none;
+}
+
+.header__menu-item-active {
   text-decoration: none;
 }
