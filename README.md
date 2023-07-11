@@ -33,9 +33,9 @@
 
 ## Нас можно найти
 
-* www.verstka.ru
-* www.vk/verstka
-* www.youtube/verstka
+* [Наш сайт](www.verstka.ru)
+* [Мы В Контакте](www.vk/verstka)
+* [Смотрите нас в YouTube](www.youtube/verstka)
 
 ## Версии
 
